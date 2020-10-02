@@ -1039,6 +1039,9 @@ section#timeline {
     .active-menu {
         display: block !important;
     }
+    #contact-btn {
+        padding: 40px 0;
+    }
 }
 
 @media (max-width: 600px) {
